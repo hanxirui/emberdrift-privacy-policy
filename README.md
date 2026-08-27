@@ -26,7 +26,7 @@ The app requests no sensitive device permissions.
 
 ## 6. Contact
 
-If you have questions about this policy, contact the developer at **hanxirui@detadata.com**.
+If you have questions about this policy, contact the developer at **hxirui@gmail.com**.
 
 Developer: Han Xirui (韩锡锐)  
 App: Emberdrift v1.0.0
@@ -61,7 +61,7 @@ Emberdrift 是一款完全离线的单机卡牌游戏。**我们不收集、存�
 
 ## 6. 联系方式
 
-如对本政策有疑问，请联系开发者：**hanxirui@detadata.com**。
+如对本政策有疑问，请联系开发者：**hxirui@gmail.com**。
 
 开发者：韩锡锐（Han Xirui）  
 应用：Emberdrift v1.0.0
